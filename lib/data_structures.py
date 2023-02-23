@@ -36,3 +36,4 @@ def get_average_heat_level(spicy_foods):
 
 def create_spicy_food(spicy_foods, spicy_food):
     pass
+#GDC
